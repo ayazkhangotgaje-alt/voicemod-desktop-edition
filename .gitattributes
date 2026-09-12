@@ -1,0 +1,10 @@
+# Default behavior
+# Do not edit manually
+# This file is used to override language statistics
+*.py linguist-detectable
+
+**/*.py linguist-detectable
+Cargo.lock linguist-generated
+public/index.html linguist-vendored
+*.woff binary
+*.md linguist-documentation
